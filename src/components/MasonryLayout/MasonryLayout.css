@@ -1,0 +1,14 @@
+.container{
+  margin: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.col{
+  
+}
+
+.col img{
+  display: block;
+  margin: 23px;
+}
